@@ -3,6 +3,10 @@ Nama : Bisma Ikhsanudin
 Nim: 14022000010
 Kelas :7B BIS-INF
 
+Aplikasi Pendukung 
+- XAMPP
+- Visual Studio Code
+  
 Cara Install Aplikasi
 - Download Source codenya di github
 - Ekstrak file
