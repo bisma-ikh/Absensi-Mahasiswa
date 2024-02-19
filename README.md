@@ -1,7 +1,10 @@
 Tugas UAS Pemrograman
-Nama : Bisma Ikhsanudin
-Nim: 14022000010
-Kelas :7B BIS-INF
+- Nama : Bisma Ikhsanudin
+  Nim: 14022000010
+- Nama : Crisjhon Hutapea
+- Nama : Udi Mufrodi
+- Nama : M. Firyal Azhar
+- Nama : Enggus R Nugraha
 
 Aplikasi Pendukung 
 - XAMPP
