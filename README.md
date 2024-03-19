@@ -5,6 +5,7 @@ Tugas UAS Pemrograman
 - Nama : Udi Mufrodi
 - Nama : M. Firyal Azhar
 - Nama : Enggus R Nugraha
+- Nama : Muhammad Faizal Al Aziz 
 
 Aplikasi Pendukung 
 - XAMPP
